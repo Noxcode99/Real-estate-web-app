@@ -20,7 +20,7 @@
 
 
 ## 🔴 Model Deployment
-Deployed the app using vercel at : https://real-estate-web-app-sable.vercel.app/
+Deployed the app using vercel at : https://real-estate-web-m6m5ml3nd-noxcode99.vercel.app/
 
 ## To Run the app
 ```bash
