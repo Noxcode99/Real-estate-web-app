@@ -1,9 +1,6 @@
 <h1 align="center">Real Estate Web Application 📊 </h1>
 
 <br>
-<h2 align="center"> <b> Hacktober Fest 2022 Accepted! Create a Pull Request to Participate in Hacktoberfest 2022</b></h2>
-
-
 
 <br><br><br>
 
