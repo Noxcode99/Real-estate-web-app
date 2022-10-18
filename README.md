@@ -5,7 +5,6 @@
 
 
 
-![hacktoberfest](https://user-images.githubusercontent.com/67837886/194604144-f81642db-691d-4504-97f5-a5e431efb698.png)
 <br><br><br>
 
 <pre>
